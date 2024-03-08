@@ -1,2 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anand Raj Naidu</h1>
-<h3 align="center">A passionate Python programmer with DataScience</h3>
+Thanks for downloading this template!
+
+Template Name: MyResume
+Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
+..
